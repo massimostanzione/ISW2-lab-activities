@@ -12,6 +12,8 @@ public class SonarSandbox {
 		logger.log(Level.CONFIG, "... e pure da Windows!");
 		logger.log(Level.WARNING, "Ma senza il ghost?");
 		logger.log(Level.CONFIG, "Sì, senza il ghost e pure da Debian, ma lo scanner non gira.");
-		logger.log(Level.INFO, String.format("E la variabile vale %d.", var));
+		if (var > 0) {
+			logger.log(Level.INFO, String.format("E la variabile vale %d.", var));
+		}
 	}
 }
