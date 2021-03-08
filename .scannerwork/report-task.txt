@@ -3,5 +3,5 @@ projectKey=massimostanzione_sonar-sandbox
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.18038
 dashboardUrl=https://sonarcloud.io/dashboard?id=massimostanzione_sonar-sandbox
-ceTaskId=AXgTFGX6hxRjSjXkNwze
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgTFGX6hxRjSjXkNwze
+ceTaskId=AXgTouMG8jvysXA1OHZT
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgTouMG8jvysXA1OHZT
