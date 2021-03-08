@@ -9,5 +9,6 @@ public class SonarSandbox {
 		logger.log(Level.INFO, "Hello SonarCloud! Da Debian!");
 		logger.log(Level.INFO, "... e pure da Windows!");
 		logger.log(Level.INFO, "Ma senza il ghost?");
+		logger.log(Level.INFO, "Sì, senza il ghost e pure da Debian, ma lo scanner non gira.");
 	}
 }
