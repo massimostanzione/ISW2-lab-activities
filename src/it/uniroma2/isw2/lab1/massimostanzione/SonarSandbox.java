@@ -1,4 +1,4 @@
-package it.uniroma2.massimostanzione.sonarsandbox;
+package it.uniroma2.isw2.lab1.massimostanzione;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
