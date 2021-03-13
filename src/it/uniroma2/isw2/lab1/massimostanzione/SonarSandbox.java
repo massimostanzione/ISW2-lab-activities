@@ -15,6 +15,6 @@ public class SonarSandbox {
 		if (logger.isLoggable(Level.INFO)) {
 			logger.log(Level.INFO, String.format("E la variabile vale %d.", var));
 		}
-		logger.log(Level.WARNING, "PRO-LAB2 - Hello again!");
+		logger.log(Level.WARNING, "PRO-LAB2 - Hello again! Greetings!");
 	}
 }
