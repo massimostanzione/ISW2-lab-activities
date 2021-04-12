@@ -1,4 +1,4 @@
-package it.uniroma2.isw2.lab1.massimostanzione;
+package it.uniroma2.isw2.massimostanzione.lab1;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
